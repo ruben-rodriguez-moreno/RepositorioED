@@ -10,7 +10,6 @@ public class Ejercicio20 {
         int base;
         int exponente;
         int resultado=1;
-        System.out.println("Introduce una base: ");
          base = sc.nextInt();
         System.out.println("Introduce un exponente: ");
          exponente = sc.nextInt();
