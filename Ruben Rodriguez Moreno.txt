@@ -1,0 +1,8 @@
+He elegido un archivo .pdf para bases de datos que es lo ultimo que hemos hecho que son codigos en sql para buscar lo que
+nos piden en la base de datos.
+
+En entronos he cogido un archivo de texto que si lo colocas en draw.io te da un diagrama de flujo de los muchos que hicimos.
+
+En lenguajes un .html de una de las ultimas practicas que hacemos siempre en clase.
+
+Y por ultimo en programacion un .java que es el lenguaje que hemos dado por ahora. 
